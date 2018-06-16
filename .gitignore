@@ -1,6 +1,5 @@
 instance.cfg
 mmc-pack.json
-minecraft/assets
 minecraft/backups
 minecraft/crash-reports
 minecraft/journeymap
@@ -14,14 +13,10 @@ minecraft/server-resource-packs
 minecraft/texturepacks
 minecraft/TombManyGraves
 minecraft/crafttweaker.log
-minecraft/hs_err_pid13040.log
-minecraft/hs_err_pid27376.log
 minecraft/options.txt
 minecraft/usercache.json
 minecraft/usernamecache.json
 minecraft/icon.png
-minecraft/replay_pid27376.log
 minecraft/realms_persistence.json
 minecraft/knownkeys.txt
-minecraft/resources
 modlist.html
